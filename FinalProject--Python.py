@@ -32,7 +32,7 @@ def close(event):
 
 pyglet.clock.schedule_once(close, 5.0)
 
-pyglet.app.run()
+
 
 root = Tk()
 root.title("Income Tax Calculator")
